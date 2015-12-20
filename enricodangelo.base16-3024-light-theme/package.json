@@ -2,8 +2,8 @@
     "name": "enricodangelo.base16-3024-light-theme",
     "title": "Base16 3024 Light Theme",
     "description": "Completely un-edited theme from Base16 3024 Light.",
-    "homepage": "https://github.com/enricodangelo/brackets-themes/base16-3024-light-theme",
-    "version": "1.0.0",
+    "homepage": "https://github.com/enricodangelo/brackets-themes/tree/master/enricodangelo.base16-3024-light-theme",
+    "version": "1.0.1",
     "author": {
         "name": "Enrico D'Angelo",
         "url": "https://github.com/enricodangelo"

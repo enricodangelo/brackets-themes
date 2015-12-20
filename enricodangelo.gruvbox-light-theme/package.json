@@ -2,8 +2,8 @@
     "name": "enricodangelo.gruvbox-light-theme",
     "title": "Gruvbox Light Theme",
     "description": "Completely un-edited theme from Gruvbox Light.",
-    "homepage": "https://github.com/enricodangelo/brackets-themes/gruvbox-light-theme",
-    "version": "1.0.0",
+    "homepage": "https://github.com/enricodangelo/brackets-themes/tree/master/enricodangelo.gruvbox-light-theme",
+    "version": "1.0.1",
     "author": {
         "name": "Enrico D'Angelo",
         "url": "https://github.com/enricodangelo"

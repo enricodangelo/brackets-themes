@@ -2,8 +2,8 @@
     "name": "enricodangelo.base16-ashes-dark-theme",
     "title": "Base16 Ashes Dark Theme",
     "description": "Completely un-edited theme from Base16 Ashes Dark.",
-    "homepage": "https://github.com/enricodangelo/brackets-themes/base16-ashes-dark-theme",
-    "version": "1.0.0",
+    "homepage": "https://github.com/enricodangelo/brackets-themes/tree/master/enricodangelo.base16-ashes-dark-theme",
+    "version": "1.0.1",
     "author": {
         "name": "Enrico D'Angelo",
         "url": "https://github.com/enricodangelo"
