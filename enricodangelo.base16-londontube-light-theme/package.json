@@ -1,0 +1,23 @@
+{
+    "name": "enricodangelo.base16-londontube-light-theme",
+    "title": "Base16 Londontube Light Theme",
+    "description": "Completely un-edited theme from Base16 Londontube Light.",
+    "homepage": "https://github.com/enricodangelo/brackets-themes/base16-londontube-light-theme",
+    "version": "1.0.0",
+    "author": {
+        "name": "Enrico D'Angelo",
+        "url": "https://github.com/enricodangelo"
+    },
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": false,
+        "addModeClass": true
+    },
+    "keywords": [
+        "theme",
+        "base16",
+        "londontube",
+        "light"
+    ]
+}

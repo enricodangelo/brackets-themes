@@ -1,0 +1,23 @@
+{
+    "name": "enricodangelo.base16-isotope-dark-theme",
+    "title": "Base16 Isotope Dark Theme",
+    "description": "Completely un-edited theme from Base16 Isotope Dark.",
+    "homepage": "https://github.com/enricodangelo/brackets-themes/base16-isotope-dark-theme",
+    "version": "1.0.0",
+    "author": {
+        "name": "Enrico D'Angelo",
+        "url": "https://github.com/enricodangelo"
+    },
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": [
+        "theme",
+        "base16",
+        "isotope",
+        "dark"
+    ]
+}

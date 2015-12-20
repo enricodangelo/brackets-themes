@@ -1,0 +1,18 @@
+{
+    "name": "enricodangelo.gruvbox-dark-theme",
+    "title": "Gruvbox Dark Theme",
+    "description": "Completely un-edited theme from Gruvbox Dark.",
+    "homepage": "https://github.com/enricodangelo/brackets-themes/gruvbox-dark-theme",
+    "version": "1.0.0",
+    "author": {
+        "name": "Enrico D'Angelo",
+        "url": "https://github.com/enricodangelo"
+    },
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme", "gruvbox", "dark"]
+}

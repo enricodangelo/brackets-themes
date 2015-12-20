@@ -1,0 +1,23 @@
+{
+    "name": "enricodangelo.base16-grayscale-dark-theme",
+    "title": "Base16 Grayscale Dark Theme",
+    "description": "Completely un-edited theme from Base16 Grayscale Dark.",
+    "homepage": "https://github.com/enricodangelo/brackets-themes/base16-grayscale-dark-theme",
+    "version": "1.0.0",
+    "author": {
+        "name": "Enrico D'Angelo",
+        "url": "https://github.com/enricodangelo"
+    },
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": [
+        "theme",
+        "base16",
+        "grayscale",
+        "dark"
+    ]
+}
